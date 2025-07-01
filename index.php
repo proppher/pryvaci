@@ -1,0 +1,853 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<!-- Mirrored from meuprivado2025.top/2025/simaria/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jun 2025 23:17:47 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="UTF-8">
+		<title>SIMARIA - My Blog</title>
+<meta name='robots' content='index, max-snippet:-1, max-image-preview:large, max-video-preview:-1, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta name="google" content="nositelinkssearchbox" ><link rel="canonical" href="index.html" />
+<meta name="description" content=" "><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"","url":"https://meuprivado2025.top/2025","logo":"","description":"My Blog"}</script><meta property="og:url" content="https://meuprivado2025.top/2025/simaria/" /><meta property="og:site_name" content="My Blog" /><meta property="og:locale" content="pt_BR" /><meta property="og:type" content="article" /><meta property="og:title" content="SIMARIA - My Blog" /><meta property="og:description" content=" " /><meta name="twitter:card" content="summary"/><meta name="twitter:locale" content="pt_BR"/><meta name="twitter:title"  content="SIMARIA - My Blog"/><meta name="twitter:description" content=" "/><meta name="twitter:url" content="https://meuprivado2025.top/2025/simaria/"/><meta name="twitter:site" content="@My Blog"/><link rel="alternate" type="application/rss+xml" title="Feed para My Blog &raquo;" href="https://meuprivado2025.top/2025/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para My Blog &raquo;" href="https://meuprivado2025.top/2025/comments/feed/" />
+<script>
+var pagelayer_ajaxurl = "https://meuprivado2025.top/2025/wp-admin/admin-ajax.php?";
+var pagelayer_global_nonce = "eae9c529c1";
+var pagelayer_server_time = 1751325448;
+var pagelayer_is_live = "";
+var pagelayer_facebook_id = "";
+var pagelayer_settings = {"post_types":["post","page"],"enable_giver":false,"max_width":1170,"tablet_breakpoint":780,"mobile_breakpoint":360,"sidebar":false,"body_font":false,"color":false};
+var pagelayer_recaptch_lang = "";
+var pagelayer_recaptch_version = "";
+</script><style id="popularfx-global-styles" type="text/css">
+.site-header {background-color:#ffffff!important;}
+.site-title a {color:#171717!important;}
+.site-title a { font-size: 30 px; }
+.site-description {color:#171717 !important;}
+.site-description {font-size: 15px;}
+.site-footer {background-color:#171717! important;}
+
+</style><style id="pagelayer-wow-animation-style" type="text/css">.pagelayer-wow{visibility: hidden;}</style>
+	<style id="pagelayer-global-styles" type="text/css">
+:root{--pagelayer-color-primary:#007bff;--pagelayer-color-secondary:#6c757d;--pagelayer-color-text:#1d1d1d;--pagelayer-color-accent:#61ce70;--pagelayer-font-primary-font-family:Open Sans;--pagelayer-font-secondary-font-family:Roboto;--pagelayer-font-text-font-family:Montserrat;--pagelayer-font-accent-font-family:Poppins;}
+.pagelayer-row-stretch-auto > .pagelayer-row-holder, .pagelayer-row-stretch-full > .pagelayer-row-holder.pagelayer-width-auto{ max-width: 1170px; margin-left: auto; margin-right: auto;}
+@media (min-width: 781px){
+			.pagelayer-hide-desktop{
+				display:none !important;
+			}
+		}
+
+		@media (max-width: 780px) and (min-width: 361px){
+			.pagelayer-hide-tablet{
+				display:none !important;
+			}
+			.pagelayer-wp-menu-holder[data-drop_breakpoint="tablet"] .pagelayer-wp_menu-ul{
+				display:none;
+			}
+		}
+
+		@media (max-width: 360px){
+			.pagelayer-hide-mobile{
+				display:none !important;
+			}
+			.pagelayer-wp-menu-holder[data-drop_breakpoint="mobile"] .pagelayer-wp_menu-ul{
+				display:none;
+			}
+		}
+@media (max-width: 780px){
+	[class^="pagelayer-offset-"],
+	[class*=" pagelayer-offset-"] {
+		margin-left: 0;
+	}
+
+	.pagelayer-row .pagelayer-col {
+		margin-left: 0;
+		width: 100%;
+	}
+	.pagelayer-row.pagelayer-gutters .pagelayer-col {
+		margin-bottom: 16px;
+	}
+	.pagelayer-first-sm {
+		order: -1;
+	}
+	.pagelayer-last-sm {
+		order: 1;
+	}
+	
+
+}
+
+</style><script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/meuprivado2025.top\/2025\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.1"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\ud83d\udd25","\ud83d\udc26\u200b\ud83d\udd25")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel='stylesheet' id='pagelayer-frontend-css' href='../wp-content/plugins/pagelayer/css/combined.premium7406.css?ver=2.0.1' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='popularfx-style-css' href='style578f.css?ver=1.2.6' media='all' />
+<link rel='stylesheet' id='popularfx-sidebar-css' href='sidebar578f.css?ver=1.2.6' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='elementor-icons.minf531.css?ver=5.40.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='frontend.min2801.css?ver=3.29.2' media='all' />
+<link rel='stylesheet' id='elementor-post-95-css' href='post-9557bd.css?ver=1749298559' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='frontend.min5aed.css?ver=3.6.4' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='widget-image.min2801.css?ver=3.29.2' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='widget-heading.min2801.css?ver=3.29.2' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='widget-icon-list.min2801.css?ver=3.29.2' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='widget-spacer.min2801.css?ver=3.29.2' media='all' />
+<link rel='stylesheet' id='widget-video-css' href='widget-video.min2801.css?ver=3.29.2' media='all' />
+<link rel='stylesheet' id='elementor-post-104-css' href='post-104aebd.css?ver=1751319325' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='robotoed60.css?ver=1749298570' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='robotoslabf5c4.css?ver=1749298575' media='all' />
+<script src="jquery.minf43b.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="jquery-migrate.min5589.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script src="combined7406.js?ver=2.0.1" id="pagelayer-frontend-js"></script>
+<link rel="https://api.w.org/" href="https://meuprivado2025.top/2025/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://meuprivado2025.top/2025/wp-json/wp/v2/pages/104" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://meuprivado2025.top/2025/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.1" />
+<link rel='shortlink' href='https://meuprivado2025.top/2025/?p=104' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://meuprivado2025.top/2025/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmeuprivado2025.top%2F2025%2Fsimaria%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://meuprivado2025.top/2025/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmeuprivado2025.top%2F2025%2Fsimaria%2F&amp;format=xml" />
+<meta name="generator" content="Elementor 3.29.2; features: additional_custom_breakpoints, e_local_google_fonts; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+				<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" /></head>
+<body class="wp-singular page-template page-template-elementor_canvas page page-id-104 wp-theme-popularfx popularfx-body elementor-default elementor-template-canvas elementor-kit-95 elementor-page elementor-page-104 pagelayer-body">
+			<div data-elementor-type="wp-page" data-elementor-id="104" class="elementor elementor-104">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-840a9d4 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="840a9d4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7ce8fcf7" data-id="7ce8fcf7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-4cfebeec elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4cfebeec" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5c709480" data-id="5c709480" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-19a5cd56 elementor-widget elementor-widget-image" data-id="19a5cd56" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="1024" height="306" src="Captura-de-tela-2025-04-13-155608-1024x306.png" class="attachment-large size-large wp-image-113" alt="" srcset="https://meuprivado2025.top/2025/wp-content/uploads/2025/06/Captura-de-tela-2025-04-13-155608-1024x306.png 1024w, https://meuprivado2025.top/2025/wp-content/uploads/2025/06/Captura-de-tela-2025-04-13-155608-300x90.png 300w, https://meuprivado2025.top/2025/wp-content/uploads/2025/06/Captura-de-tela-2025-04-13-155608-768x230.png 768w, https://meuprivado2025.top/2025/wp-content/uploads/2025/06/Captura-de-tela-2025-04-13-155608.png 1033w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-73432da9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="73432da9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-59c27688" data-id="59c27688" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2f5c7c18 elementor-widget-mobile__width-initial elementor-widget elementor-widget-heading" data-id="2f5c7c18" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">SIMARIA MENDES</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-a3bd5ca elementor-icon-list--layout-inline elementor-list-item-link-inline elementor-mobile-align-center elementor-widget elementor-widget-icon-list" data-id="a3bd5ca" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 24 24"><path d="m1,20h12v1H0V2.5C0,1.121,1.122,0,2.5,0h16c1.378,0,2.5,1.121,2.5,2.5v10.5h-1V2.5c0-.827-.673-1.5-1.5-1.5H2.5c-.827,0-1.5.673-1.5,1.5v11.339l5.134-5.134c.903-.902,2.374-.903,3.278,0l7.588,7.588v.707h-.707l-7.588-7.589c-.514-.512-1.349-.513-1.864,0L1,15.253v4.747ZM14.5,3c1.378,0,2.5,1.121,2.5,2.5s-1.122,2.5-2.5,2.5-2.5-1.121-2.5-2.5,1.122-2.5,2.5-2.5Zm0,1c-.827,0-1.5.673-1.5,1.5s.673,1.5,1.5,1.5,1.5-.673,1.5-1.5-.673-1.5-1.5-1.5Zm9.5,15h-4v-4h-1v4h-4v1h4v4h1v-4h4v-1Z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">335</span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 24 24" width="512" height="512"><path d="M24,4.793l-4,4v-2.293c0-1.379-1.121-2.5-2.5-2.5H2.5c-1.378,0-2.5,1.121-2.5,2.5v13.5H20v-4.793l4,4V4.793Zm-5,14.207H1V6.5c0-.827,.673-1.5,1.5-1.5h15c.827,0,1.5,.673,1.5,1.5v12.5Zm4-2.207l-3-3v-3.586l3-3v9.586Z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">455</span>
+									</li>
+								<li class="elementor-icon-list-item elementor-inline-item">
+											<span class="elementor-icon-list-icon">
+							<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 24 24"><path d="M17.75,1c-2.504,0-4.777,1.851-5.75,4.354-.973-2.504-3.246-4.354-5.75-4.354C2.804,1,0,3.804,0,7.25c0,6.76,9.754,14.07,11.709,15.466l.291,.208,.291-.208c1.956-1.396,11.709-8.707,11.709-15.466,0-3.446-2.804-6.25-6.25-6.25Zm-5.75,20.693C6.859,17.958,1,12.022,1,7.25,1,4.355,3.355,2,6.25,2c2.748,0,5.25,2.86,5.25,6h1c0-3.14,2.502-6,5.25-6,2.895,0,5.25,2.355,5.25,5.25,0,4.772-5.859,10.708-11,14.443Z"></path></svg>						</span>
+										<span class="elementor-icon-list-text">168</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-299ab13d elementor-widget elementor-widget-spacer" data-id="299ab13d" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3d888795" data-id="3d888795" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-cc5fc12 elementor-widget elementor-widget-html" data-id="cc5fc12" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div style="display: flex; align-items: center; gap: 16px; background: transparent; padding: 20px; border-radius: 16px; font-family: sans-serif;">
+  
+  <!-- Foto ao vivo com pulsação -->
+  <div class="live-wrapper">
+    <div class="live-border"></div>
+    <div class="photo-container">
+      <img decoding="async"
+        src="Simaria-Mendes-nua-pelada-fotos-Playboy-cantora-peladinha-nudes-foto-nude-sexo-gostosa-porno-onlyfans-xxx-sexy-porn-945x10243d44.jpg?updatedAt=1748256689516"
+        alt="Nova Imagem"
+        class="live-photo"
+      />
+      <div class="live-inside">AO VIVO</div>
+    </div>
+  </div>
+
+  <!-- Nome e verificado -->
+  <div style="color: #000; font-size: 15px; line-height: 1.3;">
+    <div style="display: flex; align-items: center; gap: 6px;">
+      <strong style="font-size: 18px;">Simaria Mendes</strong>
+      <img decoding="async"
+        src="badgecheckb029.png?updatedAt=1747409076314"
+        alt="Verificado"
+        style="width: 18px; height: 18px;"
+      />
+    </div>
+    <div style="color: #444;">@simariaoficial</div>
+  </div>
+</div>
+
+<style>
+.live-wrapper {
+  position: relative;
+  width: 120px;
+  height: 120px;
+  animation: pulse 1.3s ease-in-out infinite;
+}
+
+.live-border {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 120px;
+  height: 120px;
+  border-radius: 9999px;
+  background: conic-gradient(from 0deg, #ff0055, #ff2d95, #ff0055);
+  animation: rotate 1.6s linear infinite;
+  z-index: 0;
+  filter: blur(2px);
+}
+
+.photo-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 9999px;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.live-photo {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 9999px;
+  z-index: 1;
+}
+
+.live-inside {
+  position: absolute;
+  bottom: 4px;
+  background: rgba(255, 0, 0, 0.9);
+  color: white;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 2px 8px;
+  border-radius: 12px;
+  z-index: 2;
+  animation: pulse 1.3s ease-in-out infinite;
+}
+
+@keyframes rotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.07); opacity: 0.9; }
+}
+</style>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-21f4cf3 elementor-widget-mobile__width-initial elementor-widget elementor-widget-html" data-id="21f4cf3" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Página</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #ffFFFF;
+      color: #111827;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 40px;
+    }
+
+    .header {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      width: 100%;
+      max-width: 600px;
+      padding-left: 20px;
+    }
+
+    .simaria-name,
+    .simaria-username {
+      display: none;
+    }
+
+    .content {
+      max-width: 600px;
+      font-size: 14px;
+      line-height: 1.5;
+      padding: 10px 20px 0 20px;
+      text-align: left;
+    }
+
+    .card {
+      background-color: #f9fafb;
+      border-radius: 16px;
+      padding: 24px;
+      width: 360px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+      margin-top: 20px;
+    }
+
+    .card-header h3 {
+      font-size: 22px;
+      margin-bottom: 20px;
+      margin-top: 0;
+      color: #1f2937;
+      text-align: center;
+    }
+
+    .card-content {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .subscription-link {
+      text-decoration: none;
+    }
+
+    .subscription-button {
+      width: 100%;
+      border: none;
+      padding: 14px 20px;
+      border-radius: 12px;
+      font-size: 16px;
+      font-weight: bold;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: #f97316;
+      color: #fff;
+      cursor: pointer;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 0 12px #f97316;
+      animation: glow 2s infinite ease-in-out, shake 1.5s infinite ease-in-out;
+    }
+
+    .badge {
+      background: #fde68a;
+      color: #92400e;
+      font-size: 11px;
+      padding: 4px 10px;
+      border-radius: 20px;
+      display: inline-block;
+      font-weight: bold;
+      margin-bottom: -6px;
+    }
+
+    .highlight {
+      font-size: 17px;
+    }
+
+    .button-left {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    @keyframes glow {
+      0% { box-shadow: 0 0 10px #f97316; }
+      50% { box-shadow: 0 0 20px #f97316; }
+      100% { box-shadow: 0 0 10px #f97316; }
+    }
+
+    @keyframes shake {
+      0%, 100% { transform: translateX(0); }
+      25% { transform: translateX(-2px); }
+      50% { transform: translateX(2px); }
+      75% { transform: translateX(-1px); }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="header"></div>
+
+  <div class="content">
+    <p><strong>TOP 01 DA PLATAFORMA 🥇</strong> Os vídeos contém sexo explícito mostrando tudo, vídeo mamando, se masturbando e tudo mais que você pode imaginar! Aqui tem de tudo!!! COROA DO BUCETÃO 😛😋 BUCETÃO GOSTOSA E COROA QUE NEM PARECE QUE JÁ FOI USADA!!😋🔥 Aqui também tem muito chat privado com fotos e vídeos exclusivos que mando pra você, como você pedir 👅🔞🍆 E aqui você vai ver de tudo e vai se apaixonar! Me manda foto do pau que eu gosto muito 😈🍆</p>
+  </div>
+
+  <!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Assinaturas</title>
+  <style>
+    body {
+      background: #f5f5f5;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+
+    .card {
+      background: #fff;
+      padding: 20px;
+      border-radius: 16px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      max-width: 400px;
+      margin: auto;
+      color: #333;
+    }
+
+    .section {
+      margin-bottom: 30px;
+    }
+
+    .section h3 {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+
+    .badge {
+      background:#FFA726;
+      color: white;
+      font-size: 12px;
+      font-weight: bold;
+      padding: 5px 10px;
+      border-radius: 999px;
+      display: inline-block;
+      margin-bottom: 8px;
+    }
+
+    .subscription-button {
+      background: linear-gradient(90deg, #, #faae67);
+      border: none;
+      border-radius: 999px;
+      padding: 16px 20px;
+      color: white;
+      text-decoration: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: bold;
+      font-size: 16px;
+      margin-top: 8px;
+      flex-wrap: wrap;
+      transition: background 0.3s, transform 0.2s;
+    }
+
+    .subscription-button:hover {
+      transform: scale(1.02);
+      background: linear-gradient(90deg, #ff7e7e, #ffc078);
+    }
+
+    .left {
+      text-align: left;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .right {
+      text-align: right;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .selo-container {
+      margin-bottom: 8px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .extra-text {
+      font-size: 12px;
+      font-weight: normal;
+      margin-top: 4px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+  <div class="section">
+    <h3>Assinaturas</h3>
+
+    </a>
+        <!-- Espaçamento entre os botões -->
+    <div style="height: 15px;"></div>
+
+   <div class="selo-container">
+      <span class="badge">Mais Economico+Conteúdos Basicos </span>
+    </div>
+
+    <a href="pagamento.php" class="subscription-button">
+      <span class="left">
+        1 Semana
+        <span class="extra-text"></span>
+      </span>
+      <span class="right">R$ 22,90</span>
+    </a>
+ <!-- Espaçamento entre os botões -->
+    <div style="height: 15px;"></div>
+
+  <div class="section">
+
+  	   <div class="selo-container">
+      <span class="badge">Mais Vendido+conteúdos exclusivos </span>
+    </div>
+
+    <a href="pagamento2.php" class="subscription-button">
+      <span class="left">
+        1 Mes
+        <span class="extra-text"></span>
+      </span>
+      <span class="right">R$ 32,60</span>
+    </a>
+ <!-- Espaçamento entre os botões -->
+    <div style="height: 15px;"></div>
+
+  <div class="section">
+  	   <div class="selo-container">
+      <span class="badge">Melhor Oferta + Chamada de Vídeo Comigo!
+ </span>
+    </div>
+
+    <a href="pagamento3.php" class="subscription-button">
+      <span class="left">
+         3 Mes
+        <span class="extra-text"></span>
+      </span>
+      <span class="right">R$ 45,00</span>
+    </a>
+ <!-- Espaçamento entre os botões -->
+ 
+  </div>
+</div>
+
+</body>
+
+<!-- Mirrored from meuprivado2025.top/2025/simaria/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jun 2025 23:17:55 GMT -->
+</html>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5177921d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5177921d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-241f81f1" data-id="241f81f1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-72e7c24 elementor-widget-mobile__width-initial elementor-widget elementor-widget-html" data-id="72e7c24" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div style="display: flex; align-items: center; gap: 12px; background-color: transparent; padding: 12px 16px; border-radius: 16px; width: fit-content; font-family: sans-serif;">
+  <!-- Container da imagem com efeito ao vivo -->
+  <div style="position: relative; width: 96px; height: 96px;">
+    <div class="live-ring"></div>
+    <img decoding="async"
+      src="Simaria-Mendes-nua-pelada-fotos-Playboy-cantora-peladinha-nudes-foto-nude-sexo-gostosa-porno-onlyfans-xxx-sexy-porn-945x10243d44.jpg?updatedAt=1748256689516"
+      alt="Simaria"
+      style="width: 96px; height: 96px; object-fit: cover; border-radius: 9999px; border: 2px solid white; position: relative; z-index: 1;"
+    />
+  </div>
+
+  <!-- Texto com nome, verificado e @ -->
+  <div style="color: black; font-size: 14px; line-height: 1.2;">
+    <div style="display: flex; align-items: center; gap: 4px;">
+      <strong style="font-size: 16px;">Simaria Mendes</strong>
+      <img decoding="async"
+        src="badgecheckb029.png?updatedAt=1747409076314"
+        alt="Verificado"
+        style="width: 16px; height: 16px;"
+      />
+    </div>
+    <div style="color: #555;">@simariaoficial</div>
+  </div>
+</div>
+
+<!-- Texto da publicação -->
+<div style="margin-top: 12px; color: black; font-size: 14px; line-height: 1.6; text-align: left;">
+  <p><strong>NOVINHO DE 19 ANOS ME COMEU GOSTOSO🔥</strong></p>
+  <p>🥵O Novinho  me comeu de 4 pra depois me fazer montar nele e depois comeu meu cuzinho 🔥 São dois vídeos deliciosos pra você gozar junto comigo, meu amor 💦 Vídeo completo no VIP!</p>
+</div>
+
+<!-- Efeito de brilho ao vivo -->
+<style>
+.live-ring {
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  width: 112px;
+  height: 112px;
+  border-radius: 9999px;
+  background: radial-gradient(rgba(236, 72, 153, 0.6), transparent 60%);
+  animation: pulse 1.5s infinite;
+  z-index: 0;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+  50% {
+    transform: scale(1.15);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+}
+</style>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-504a3d7 elementor-widget elementor-widget-video" data-id="504a3d7" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;play_on_mobile&quot;:&quot;yes&quot;,&quot;mute&quot;:&quot;yes&quot;,&quot;loop&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+							<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="http://meuprivado2025.top/2025/wp-content/uploads/2025/06/Design-sem-nome-1.mp4" autoplay="" loop="" muted="muted" playsinline="" controlsList="nodownload"></video>
+				</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ef7343b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ef7343b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4c10d99f" data-id="4c10d99f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-686ce679 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="686ce679" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b128594" data-id="b128594" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-585297b elementor-widget-mobile__width-initial elementor-widget elementor-widget-html" data-id="585297b" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<div style="display: flex; align-items: center; gap: 12px; background-color: transparent; padding: 12px 16px; border-radius: 16px; width: fit-content; font-family: sans-serif;">
+  <!-- Container da imagem com efeito ao vivo -->
+  <div style="position: relative; width: 96px; height: 96px;">
+    <div class="live-ring"></div>
+    <img decoding="async"
+      src="Simaria-Mendes-nua-pelada-fotos-Playboy-cantora-peladinha-nudes-foto-nude-sexo-gostosa-porno-onlyfans-xxx-sexy-porn-945x10243d44.jpg?updatedAt=1748256689516"
+      alt="Simaria"
+      style="width: 96px; height: 96px; object-fit: cover; border-radius: 9999px; border: 2px solid white; position: relative; z-index: 1;"
+    />
+  </div>
+
+  <!-- Texto com nome, verificado e @ -->
+  <div style="color: black; font-size: 14px; line-height: 1.2;">
+    <div style="display: flex; align-items: center; gap: 4px;">
+      <strong style="font-size: 16px;">Simaria Mendes</strong>
+      <img decoding="async"
+        src="badgecheckb029.png?updatedAt=1747409076314"
+        alt="Verificado"
+        style="width: 16px; height: 16px;"
+      />
+    </div>
+    <div style="color: #555;">@simariaoficial</div>
+  </div>
+</div>
+
+<!-- Texto da publicação -->
+<div style="margin-top: 12px; color: black; font-size: 14px; line-height: 1.6; text-align: left;">
+  <p><strong>COROA DE 46 ANOS ME COMEU🔥</strong></p>
+  <p>🥵Eu sentei gostoso no coroa depois ele me comeu até eu gozar no no pau dele,São  vídeos deliciosos pra você gozar junto comigo, meu amor 💦 Vídeo completo no VIP!</p>
+</div>
+
+<!-- Efeito de brilho ao vivo -->
+<style>
+.live-ring {
+  position: absolute;
+  top: -8px;
+  left: -8px;
+  width: 112px;
+  height: 112px;
+  border-radius: 9999px;
+  background: radial-gradient(rgba(236, 72, 153, 0.6), transparent 60%);
+  animation: pulse 1.5s infinite;
+  z-index: 0;
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+  50% {
+    transform: scale(1.15);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 0.6;
+  }
+}
+</style>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7187c1f0 elementor-widget elementor-widget-image" data-id="7187c1f0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://pay.transacaomarketplace.com/checkout/c0c0925e-4fdb-4e0e-8654-8a9ab138a022">
+							<img decoding="async" width="460" height="816" src="https://meuprivado2025.top/2025/wp-content/uploads/2025/06/VV.webp" class="attachment-large size-large wp-image-116" alt="" srcset="https://meuprivado2025.top/2025/wp-content/uploads/2025/06/VV.webp 460w, https://meuprivado2025.top/2025/wp-content/uploads/2025/06/VV-169x300.webp 169w" sizes="(max-width: 460px) 100vw, 460px" />								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-53c252db elementor-widget-mobile__width-initial e-transform elementor-widget elementor-widget-html" data-id="53c252db" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:22,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<a href="pagamento4.php">
+  <button class="subscription-button pulse-border" style="position: relative;">
+    <div class="button-left">
+      <span>DESBLOQUEAR CONTEÚDOS</span>
+    </div>
+    <span class="highlight">✓</span>
+  </button>
+</a>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5d232161 elementor-widget elementor-widget-html" data-id="5d232161" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-75b6e586 elementor-widget elementor-widget-html" data-id="75b6e586" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<div class="elementor-element elementor-element-3066200 elementor-widget elementor-widget-html" data-id="3066200" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<script
+  src="latest.js"
+  data-utmify-prevent-xcod-sck
+  data-utmify-prevent-subids
+  async
+  defer
+></script>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/2025\/*"},{"not":{"href_matches":["\/2025\/wp-*.php","\/2025\/wp-admin\/*","\/2025\/wp-content\/uploads\/*","\/2025\/wp-content\/*","\/2025\/wp-content\/plugins\/*","\/2025\/wp-content\/themes\/popularfx\/*","\/2025\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<script src="navigation578f.js?ver=1.2.6" id="popularfx-navigation-js"></script>
+<script src="webpack.runtime.min2801.js?ver=3.29.2" id="elementor-webpack-runtime-js"></script>
+<script src="frontend-modules.min2801.js?ver=3.29.2" id="elementor-frontend-modules-js"></script>
+<script src="core.minb37e.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartilhar no Facebook","shareOnTwitter":"Compartilhar no Twitter","pinIt":"Fixar","download":"Baixar","downloadImage":"Baixar imagem","fullscreen":"Tela cheia","zoom":"Zoom","share":"Compartilhar","playVideo":"Reproduzir v\u00eddeo","previous":"Anterior","next":"Pr\u00f3ximo","close":"Fechar","a11yCarouselPrevSlideMessage":"Slide anterior","a11yCarouselNextSlideMessage":"Pr\u00f3ximo slide","a11yCarouselFirstSlideMessage":"Este \u00e9 o primeiro slide","a11yCarouselLastSlideMessage":"Este \u00e9 o \u00faltimo slide","a11yCarouselPaginationBulletMessage":"Ir para o slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Dispositivos m\u00f3veis no modo retrato","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Dispositivos m\u00f3veis no modo paisagem","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet no modo retrato","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet no modo paisagem","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Notebook","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Tela ampla (widescreen)","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.29.2","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"e_local_google_fonts":true,"theme_builder_v2":true,"editor_v2":true,"home_screen":true,"cloud-library":true,"e_opt_in_v4_page":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/meuprivado2025.top\/2025\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/meuprivado2025.top\/2025\/wp-admin\/admin-ajax.php","uploadUrl":"http:\/\/meuprivado2025.top\/2025\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"443a32367c"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":104,"title":"SIMARIA%20-%20My%20Blog","excerpt":"","featuredImage":false}};
+</script>
+<script src="frontend.min2801.js?ver=3.29.2" id="elementor-frontend-js"></script>
+<script src="webpack-pro.runtime.min5aed.js?ver=3.6.4" id="elementor-pro-webpack-runtime-js"></script>
+<script src="../wp-includes/js/dist/hooks.min4fdd.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="../wp-includes/js/dist/i18n.minc33c.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/meuprivado2025.top\/2025\/wp-admin\/admin-ajax.php","nonce":"d787db224f","urls":{"assets":"https:\/\/meuprivado2025.top\/2025\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/meuprivado2025.top\/2025\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"pt_BR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/meuprivado2025.top\/2025\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="frontend.min5aed.js?ver=3.6.4" id="elementor-pro-frontend-js"></script>
+<script src="preloaded-elements-handlers.min5aed.js?ver=3.6.4" id="pro-preloaded-elements-handlers-js"></script>
+	</body>
+</html>
